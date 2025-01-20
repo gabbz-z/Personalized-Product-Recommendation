@@ -137,13 +137,13 @@ def visualize_recommendations(recommendations, customer_id):
 
 # Main Function
 if __name__ == "__main__":
-    file_path = 'General customer data.csv'  # Replace with your file path
+    file_path = 'General customer data.csv'  
     
     df = load_and_clean_data(file_path)
     data = prepare_data_for_model(df)
     model = train_collaborative_model(data)
     
-    customer_id = 17850  # Replace with an existing customer ID
+    customer_id = 17850  # This can be replaced with any existing customer ID
     recommendations = recommend_products(model, customer_id, df)
     
     print(f"Top Recommendations for Customer {customer_id}:")
