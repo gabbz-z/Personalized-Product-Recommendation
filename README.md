@@ -62,9 +62,16 @@ Hyperparameter tuning was performed using GridSearchCV with the following parame
 
 
 
-![product recom graph](https://github.com/user-attachments/assets/0e5c2218-1866-4311-89da-355ba04690df)
 
 
-<img width="648" alt="product recom results" src="https://github.com/user-attachments/assets/218800a4-cb7a-428a-84dd-059ecccbf2de" />
+<img width="648" alt="product recom results" src="https://github.com/user-attachments/assets/1ad9be2c-e750-4f09-99e1-dea7b74103d4" />
+
+
+
+
+
+![product recom graph](https://github.com/user-attachments/assets/de5fb9bb-5d1b-4bd2-9bfd-20ed95bad0ce)
+
+
 
 ---
